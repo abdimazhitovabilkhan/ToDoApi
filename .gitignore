@@ -1,0 +1,15 @@
+# Ignore build output
+bin/
+obj/
+*.db
+
+# Ignore VS + user files
+.vs/
+*.user
+*.suo
+*.vsidx
+*.vscode/
+
+# Ignore test coverage + logs
+TestResults/
+*.log
